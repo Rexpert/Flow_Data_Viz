@@ -39,6 +39,13 @@ code.code-prop {
     font-size: small;
     font-style: italic;
     text-align: center;
+    margin-bottom: 0;
+}
+
+.caption.table-caption {
+    text-align: left;
+    margin-top: 2em;
+    margin-bottom: 1em;
 }
 
 .side-image {
