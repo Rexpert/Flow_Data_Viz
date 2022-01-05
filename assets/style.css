@@ -121,8 +121,12 @@ iframe {
 }
 
 img {
-    width: 100%;
+    width: 40%;
     height: auto;
+}
+
+img.img-ss {
+    width: 100%;
 }
 
 ol.ref {
